@@ -39,8 +39,8 @@ document.addEventListener("mousemove", (e) => {
 /* Download Resume */
 function downloadResume() {
     const link = document.createElement("a");
-    link.href = "resume.pdf";
-    link.download = "resume.pdf";
+    link.href = "Ujjawal_Tiwari_Resume.pdf";
+    link.download = "Ujjawal_Tiwari_Resume.pdf";
     link.click();
 }
 
